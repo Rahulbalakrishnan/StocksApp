@@ -18,7 +18,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.rahul.stocksapp.presentation.company_info.CompanyInfoViewModel
-import com.rahul.stocksapp.ui.theme.DarkBlue
+import com.rahul.stocksapp.presentation.ui.theme.DarkBlue
 import com.ramcosta.composedestinations.annotation.Destination
 
 @Composable

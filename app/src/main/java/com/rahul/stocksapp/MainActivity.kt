@@ -8,7 +8,7 @@ import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.ui.Modifier
 import com.rahul.stocksapp.presentation.NavGraphs
-import com.rahul.stocksapp.ui.theme.StocksAppTheme
+import com.rahul.stocksapp.presentation.ui.theme.StocksAppTheme
 import com.ramcosta.composedestinations.DestinationsNavHost
 import dagger.hilt.android.AndroidEntryPoint
 
